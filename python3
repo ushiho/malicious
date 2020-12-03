@@ -1,0 +1,1 @@
+echo '<h1>I\'m PHP</h1>' -c print('B'*232+'.php'+'.gif')
